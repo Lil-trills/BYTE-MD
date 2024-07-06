@@ -7,42 +7,42 @@
   "stack": "container",
 
   "env": {
-    "OWNER_NAME": {
+    "OWNER_NAME": {Trils
       "description": "Name for Bot Owner",
       "value": "TalkDrove",
       "required": true
     },
-    "SESSION_ID": {
+    "SESSION_ID": {Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUpOTVVIZk1Zb2dpYlRpa0gyOG81OXdTcHdZZlhTQlNNTXFVUXRoK1RYUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieFY1bE1WYkZkM2F4OHkzR1RlY3pVVHh0dzQ1NjFYOTFpelYyaFVybElSQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPSXl2R1N3a3VCODh3WTRBb2YxNnFCNVQ1MUlEWStwdk9NMzJlUGJGd2tNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuQXhGL0o5MzBFSGh5ZWxoMG0zeksxM0pXOEUveUFma3Fjd0g3TkFvVm5rPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFHdUwrckVYMnVyRUJoaVJaaGdQaHpaa0F6RkZCVmNreURrVmlEVW9rRTg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Inl5RzY2VFFzZlFFNWtENmtGdGtzamVqMVF6bzhKT0JXbmZ3L2dUY1IrMEU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0JiUUVuWnRsVGYzSERDbmZBTk5XKytTL21XK3RnTmhtcE84Uks0SW5uWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSldlZGRQdGFyYmpnaHhUUzNSWkxIa1pGMFU2dHBJL29YTWY2TFhlRGkxaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjEwN3Q0V2hVbkJKWEVUUnY2UlFoSmRhak9BSjc1aFZETFZ4aG5JNE1CeGY3WXY4OTRkZGlwTzVqUUpUOFdNdTlneVNkWTdMTExrVE5rT2MzK205VGlRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjA2LCJhZHZTZWNyZXRLZXkiOiJOcXBXNktMenBUUWZGWS9sVGluZDFiaXhhYmRjM1ZzamFMQUJlTUthYXFRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiIyNlE1ZUZmbFFUU0Z5OTFGcU9HaVVBIiwicGhvbmVJZCI6ImIwZTAxOWZlLTM3MzMtNDExNC05NDBlLTdiZjYzOGVlY2Y2MSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvL2pvb3FiYXJObk84djBTRTV3a25DSENZK1U9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYm03S0RkeUxjSHdoNWorM0dSTXpDK3NGK1FFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkdQU0wzNEVMIiwibWUiOnsiaWQiOiIyMzQ3MDI1MzY5MDM2OjM0QHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNOamU0SVlFRVBmNG83UUdHQW9nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ1Zkl4VlJIemN4bnVqUnhyUVlFRmJESWtNSEdPSlVmUGEvaXVRVTZ2ZUVzPSIsImFjY291bnRTaWduYXR1cmUiOiJzYWZObkR4N21salZDall0QU82L0dORmgvOWU0bDg1QmFXNWtXc2xRQ3dDcFN4dFo3NFJKdDlyNkVKT1dvNWxKSHdWQnRranJaQlA4WjF5cjlYWXFBZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoidXNFRjUvT3h5T1c2REtmcklEL0dKTTBPOVdUMkw1Qy9ncncxcldMSUQ1MjZpMUFvVVZQdnB2TXZxeDVmTVVMcTVJMmQ1OForYlVNOEVQZTFXQU1OaVE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ3MDI1MzY5MDM2OjM0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmJueU1WVVI4M01aN28wY2EwR0JCV3d5SkRCeGppVkh6MnY0cmtGT3IzaEwifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjAyNTM1NjJ9
       "description": "put your SESSION_ID here.",
       "value": ""
     },
-    "WELCOME": {
+    "WELCOME": {false
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "false",
       "required": false
     },
 
-    "GOODBYE": {
+    "GOODBYE": {false
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
       "required": false
     },
-    "TZ": {
+    "TZ": {Africa/Lagos
       "description": "Put TIME_ZONE according to your location",
       "required": false,
       "value": "Asia/Karachi"
     },
-    "READ_COMMAND": {
+    "READ_COMMAND": {true
       "description": " Read bot cmds",
       "required": false,
       "value": "true"
     },
-    "WARN_COUNT": {
+    "WARN_COUNT": {3
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required": false,
       "value": "3"
     },
-    "AUTO_SAVE_STATUS": {
+    "AUTO_SAVE_STATUS": {false
       "description": " Auto save whatsapp status",
       "required": false,
       "value": "false"
@@ -57,12 +57,12 @@
       "value": "",
       "required": false
     },
-    "WAPRESENCE": {
+    "WAPRESENCE": {available
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
       "value": "available"
     },
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {true
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
       "value": "true"
@@ -86,21 +86,21 @@
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2347025369036
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "value": "923072380380"
     },
 
-    "MODE": {
+    "MODE": {private
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
       "value": "public"
     },
-    "PACK_NAME": {
+    "PACK_NAME": {trills
       "description": "Put Sticker Pack_Name.",
       "value": "BYTE",
       "required": false
     },
-    "PACK_AUTHER": {
+    "PACK_AUTHER": {trills
       "description": "Put Sticker Author_Name.",
       "value": "TalkDrove",
       "required": false
